@@ -2,3 +2,11 @@
 ---
 
 @import "{{ site.theme }}";
+
+body {
+  background: radial-gradient(#22AA11, whitesmoke);
+}
+
+h1.business-name {
+  color: #2A0020;
+}
