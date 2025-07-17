@@ -1,8 +1,0 @@
----
----
-
-@import "{{ site.theme }}";
-
-h1.business-name {
-  color: #2A0020;
-}
